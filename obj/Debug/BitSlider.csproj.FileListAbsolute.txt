@@ -1,0 +1,11 @@
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\bin\Debug\BitSlider.exe.config
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\bin\Debug\BitSlider.exe
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\bin\Debug\BitSlider.pdb
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.csproj.AssemblyReference.cache
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.Properties.Resources.resources
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.csproj.GenerateResource.cache
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.csproj.CoreCompileInputs.cache
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.exe
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.pdb
+C:\Users\kiespetch1\RiderProjects\BitSlider\BitSlider\obj\Debug\BitSlider.Form1.resources
